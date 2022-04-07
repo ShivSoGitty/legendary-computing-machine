@@ -1,0 +1,28 @@
+body{
+    background-color: #32cd32;
+}
+.boi{
+    background-color: #00ced1;
+    color: black;
+}
+.boi p{
+    font-family: 'Montserrat', sans-serif;
+    word-spacing: 2px;
+    font-size: 20;
+}
+.Mainboi button{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 5px;
+    width: 10px;
+    font-weight: 900;
+    word-spacing: 3px;
+}
+.right-footer{
+    background-color: aliceblue;
+    color: grey;
+    width: 100%;
+    font-size: 20px;
+    line-height: normal;
+    text-shadow: 5px;
+    text-align: center;
+}
